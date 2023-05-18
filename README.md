@@ -50,7 +50,7 @@ if (lam <  mu):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("---------------------------------------------------------------")
-
+```
 ## Output :
 ![](exp4.png)
 
